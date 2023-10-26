@@ -1,0 +1,9 @@
+srt
+rouge
+openai
+tqdm
+numpy
+pandas
+transformers
+simple-parsing
+pyyaml
