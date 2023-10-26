@@ -62,6 +62,8 @@ Supported datasets:
   - `movieqa`
   - `dramaqa`
 
+We rely on OpenAI API for GPT usages. Update `secrets.yml` with your openai key before running any command below.
+
 1. Getting plot summaries
   - `python get_base_plot.py`
 
